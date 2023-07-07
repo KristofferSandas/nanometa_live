@@ -1,5 +1,7 @@
 # Nanometa Live
 
+**This page is no longer in use for Nanometa Live. The project has moved to** https://github.com/FOI-Bioinformatics/nanometa_live
+
 Version beta 0.0.1
 
 To quick start, go to INSTALL and then USE and follow the tutorial.
